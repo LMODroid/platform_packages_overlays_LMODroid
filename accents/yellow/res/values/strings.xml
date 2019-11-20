@@ -2,6 +2,7 @@
 <!--
 /**
  * Copyright (c) 2019, The Android Open Source Project
+ * Copyright (c) 2019, The LineageOS Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,6 +18,7 @@
  */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- Amber accent color name application label. [CHAR LIMIT=50] -->
-    <string name="accent_yellow" translatable="false">Yellow</string>
+    <!-- Yellow accent color name application label. [CHAR LIMIT=50] -->
+    <string name="accent_color_yellow_overlay" translatable="false">Yellow</string>
 </resources>
+

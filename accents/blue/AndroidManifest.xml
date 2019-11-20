@@ -21,14 +21,10 @@
 
     <overlay
         android:targetPackage="android"
+        android:category="android.theme.customization.accent_color"
         android:priority="1" />
 
     <application
         android:hasCode="false"
-        android:label="@:string/accent_blue">
-
-        <meta-data
-            android:name="lmodroid_berry_accent_preview"
-            android:value="#4182EF" />
-    </application>
+        android:label="@string/accent_color_blue_overlay" />
 </manifest>
