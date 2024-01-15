@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fonts-modification version="1">
+    <family customizationType="new-named-family" name="albertsans">
+        <font weight="400" style="normal">AlbertSans-Regular.ttf</font>
+        <font weight="400" style="italic">AlbertSans-Italic.ttf</font>
+        <font weight="500" style="normal">AlbertSans-Medium.ttf</font>
+        <font weight="500" style="italic">AlbertSans-MediumItalic.ttf</font>
+        <font weight="700" style="normal">AlbertSans-Bold.ttf</font>
+        <font weight="700" style="italic">AlbertSans-BoldItalic.ttf</font>
+    </family>
+    <alias name="albertsans-medium" to="albertsans" weight="500" />
+    <alias name="albertsans-bold" to="albertsans" weight="700" />
+
     <family customizationType="new-named-family" name="lato">
         <font weight="400" style="normal">Lato-Regular.ttf</font>
         <font weight="400" style="italic">Lato-Italic.ttf</font>
