@@ -1,0 +1,10 @@
+//
+// SPDX-FileCopyrightText: 2024 The LibreMobileOS Foundation
+// SPDX-License-Identifier: Apache-2.0
+//
+
+runtime_resource_overlay {
+    name: "LMODroidEdgeCutout",
+    theme: "LMODroidEdgeCutout",
+    product_specific: true,
+}
